@@ -1,0 +1,39 @@
+h1 {
+    color: peru; background-color: red;
+}
+
+h2 {
+    color: #DDA0DD; background-color:orange;
+}
+
+h3 {
+    color: rgb(128, 0, 128); background-color:yellow;
+}
+
+h4 {
+    color: rgb(110, 46, 139); background-color:green;
+}
+
+h5 {
+    color: steelblue; background-color:blue;
+}
+
+h6 {
+    color: tomato; background-color:indigo;
+}
+
+p {
+    color: yellow; background-color:violet;
+}
+
+li:nth-child(1) {
+    color: hotpink;
+  }
+
+  li:nth-child(3) {
+      background-color: peachpuff;
+  }
+
+  li:nth-child(odd) {
+    border: 5px solid green;
+  }
