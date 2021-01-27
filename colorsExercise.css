@@ -7,7 +7,7 @@ h2 {
 }
 
 h3 {
-    color: rgb(128, 0, 128); background-color:yellow;
+    color: rgba(128, 0, 128, .5); background-color:yellow;
 }
 
 h4 {
